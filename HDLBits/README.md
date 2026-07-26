@@ -1,7 +1,7 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 10
+Solved Problems: 11
 
 Last Updated:
 2026-07-26
@@ -18,5 +18,6 @@ Last Updated:
 | [wire4](./Basics/wire4.md) | Basics | Verilog | [wire4.v](./Basics/wire4.v) |
 | [xnorgate](./Basics/xnorgate.md) | Basics | Verilog | [xnorgate.v](./Basics/xnorgate.v) |
 | [zero](./Basics/zero.md) | Basics | Verilog | [zero.v](./Basics/zero.v) |
+| [vector0](./Vectors/vector0.md) | Vectors | Verilog | [vector0.v](./Vectors/vector0.v) |
 
 <!-- HDLBITS_SYNC_END -->
