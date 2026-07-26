@@ -1,13 +1,14 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 9
+Solved Problems: 10
 
 Last Updated:
 2026-07-26
 
 | Problem | Category | Language | Code |
 | :--- | :--- | :--- | :--- |
+| [7458](./Basics/7458.md) | Basics | Verilog | [7458.v](./Basics/7458.v) |
 | [andgate](./Basics/andgate.md) | Basics | Verilog | [andgate.v](./Basics/andgate.v) |
 | [norgate](./Basics/norgate.md) | Basics | Verilog | [norgate.v](./Basics/norgate.v) |
 | [notgate](./Basics/notgate.md) | Basics | Verilog | [notgate.v](./Basics/notgate.v) |
