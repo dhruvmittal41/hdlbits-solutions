@@ -1,10 +1,10 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 11
+Solved Problems: 12
 
 Last Updated:
-2026-07-26
+2026-08-19
 
 | Problem | Category | Language | Code |
 | :--- | :--- | :--- | :--- |
@@ -19,5 +19,6 @@ Last Updated:
 | [xnorgate](./Basics/xnorgate.md) | Basics | Verilog | [xnorgate.v](./Basics/xnorgate.v) |
 | [zero](./Basics/zero.md) | Basics | Verilog | [zero.v](./Basics/zero.v) |
 | [vector0](./Vectors/vector0.md) | Vectors | Verilog | [vector0.v](./Vectors/vector0.v) |
+| [vector1](./Vectors/vector1.md) | Vectors | Verilog | [vector1.v](./Vectors/vector1.v) |
 
 <!-- HDLBITS_SYNC_END -->
