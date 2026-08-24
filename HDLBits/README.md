@@ -1,7 +1,7 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 16
+Solved Problems: 17
 
 Last Updated:
 2026-08-24
@@ -24,5 +24,6 @@ Last Updated:
 | [vector2](./Vectors/vector2.md) | Vectors | Verilog | [vector2.v](./Vectors/vector2.v) |
 | [vector3](./Vectors/vector3.md) | Vectors | Verilog | [vector3.v](./Vectors/vector3.v) |
 | [vectorgates](./Vectors/vectorgates.md) | Vectors | Verilog | [vectorgates.v](./Vectors/vectorgates.v) |
+| [vectorr](./Vectors/vectorr.md) | Vectors | Verilog | [vectorr.v](./Vectors/vectorr.v) |
 
 <!-- HDLBITS_SYNC_END -->
