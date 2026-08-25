@@ -1,7 +1,7 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 24
+Solved Problems: 25
 
 Last Updated:
 2026-08-25
@@ -19,6 +19,7 @@ Last Updated:
 | [xnorgate](./Basics/xnorgate.md) | Basics | Verilog | [xnorgate.v](./Basics/xnorgate.v) |
 | [zero](./Basics/zero.md) | Basics | Verilog | [zero.v](./Basics/zero.v) |
 | [module](./Modules/module.md) | Modules | Verilog | [module.v](./Modules/module.v) |
+| [module_add](./Modules/module_add.md) | Modules | Verilog | [module_add.v](./Modules/module_add.v) |
 | [module_name](./Modules/module_name.md) | Modules | Verilog | [module_name.v](./Modules/module_name.v) |
 | [module_pos](./Modules/module_pos.md) | Modules | Verilog | [module_pos.v](./Modules/module_pos.v) |
 | [module_shift](./Modules/module_shift.md) | Modules | Verilog | [module_shift.v](./Modules/module_shift.v) |
