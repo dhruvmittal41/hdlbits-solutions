@@ -1,7 +1,7 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 28
+Solved Problems: 29
 
 Last Updated:
 2026-08-25
@@ -27,6 +27,7 @@ Last Updated:
 | [module_pos](./Modules/module_pos.md) | Modules | Verilog | [module_pos.v](./Modules/module_pos.v) |
 | [module_shift](./Modules/module_shift.md) | Modules | Verilog | [module_shift.v](./Modules/module_shift.v) |
 | [module_shift8](./Modules/module_shift8.md) | Modules | Verilog | [module_shift8.v](./Modules/module_shift8.v) |
+| [alwaysblock1](./Procedures/alwaysblock1.md) | Procedures | Verilog | [alwaysblock1.v](./Procedures/alwaysblock1.v) |
 | [gates4](./Vectors/gates4.md) | Vectors | Verilog | [gates4.v](./Vectors/gates4.v) |
 | [vector0](./Vectors/vector0.md) | Vectors | Verilog | [vector0.v](./Vectors/vector0.v) |
 | [vector1](./Vectors/vector1.md) | Vectors | Verilog | [vector1.v](./Vectors/vector1.v) |
