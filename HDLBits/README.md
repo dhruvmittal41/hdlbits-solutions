@@ -1,7 +1,7 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 26
+Solved Problems: 27
 
 Last Updated:
 2026-08-25
@@ -20,6 +20,7 @@ Last Updated:
 | [zero](./Basics/zero.md) | Basics | Verilog | [zero.v](./Basics/zero.v) |
 | [module](./Modules/module.md) | Modules | Verilog | [module.v](./Modules/module.v) |
 | [module_add](./Modules/module_add.md) | Modules | Verilog | [module_add.v](./Modules/module_add.v) |
+| [module_cseladd](./Modules/module_cseladd.md) | Modules | Verilog | [module_cseladd.v](./Modules/module_cseladd.v) |
 | [module_fadd](./Modules/module_fadd.md) | Modules | Verilog | [module_fadd.v](./Modules/module_fadd.v) |
 | [module_name](./Modules/module_name.md) | Modules | Verilog | [module_name.v](./Modules/module_name.v) |
 | [module_pos](./Modules/module_pos.md) | Modules | Verilog | [module_pos.v](./Modules/module_pos.v) |
