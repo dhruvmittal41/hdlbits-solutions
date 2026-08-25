@@ -1,10 +1,10 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 18
+Solved Problems: 19
 
 Last Updated:
-2026-08-24
+2026-08-25
 
 | Problem | Category | Language | Code |
 | :--- | :--- | :--- | :--- |
@@ -24,6 +24,7 @@ Last Updated:
 | [vector2](./Vectors/vector2.md) | Vectors | Verilog | [vector2.v](./Vectors/vector2.v) |
 | [vector3](./Vectors/vector3.md) | Vectors | Verilog | [vector3.v](./Vectors/vector3.v) |
 | [vector4](./Vectors/vector4.md) | Vectors | Verilog | [vector4.v](./Vectors/vector4.v) |
+| [vector5](./Vectors/vector5.md) | Vectors | Verilog | [vector5.v](./Vectors/vector5.v) |
 | [vectorgates](./Vectors/vectorgates.md) | Vectors | Verilog | [vectorgates.v](./Vectors/vectorgates.v) |
 | [vectorr](./Vectors/vectorr.md) | Vectors | Verilog | [vectorr.v](./Vectors/vectorr.v) |
 
