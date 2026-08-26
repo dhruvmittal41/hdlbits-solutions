@@ -1,10 +1,10 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 30
+Solved Problems: 31
 
 Last Updated:
-2026-08-25
+2026-08-26
 
 | Problem | Category | Language | Code |
 | :--- | :--- | :--- | :--- |
@@ -27,6 +27,7 @@ Last Updated:
 | [module_pos](./Modules/module_pos.md) | Modules | Verilog | [module_pos.v](./Modules/module_pos.v) |
 | [module_shift](./Modules/module_shift.md) | Modules | Verilog | [module_shift.v](./Modules/module_shift.v) |
 | [module_shift8](./Modules/module_shift8.md) | Modules | Verilog | [module_shift8.v](./Modules/module_shift8.v) |
+| [always_if](./Procedures/always_if.md) | Procedures | Verilog | [always_if.v](./Procedures/always_if.v) |
 | [alwaysblock1](./Procedures/alwaysblock1.md) | Procedures | Verilog | [alwaysblock1.v](./Procedures/alwaysblock1.v) |
 | [alwaysblock2](./Procedures/alwaysblock2.md) | Procedures | Verilog | [alwaysblock2.v](./Procedures/alwaysblock2.v) |
 | [gates4](./Vectors/gates4.md) | Vectors | Verilog | [gates4.v](./Vectors/gates4.v) |
