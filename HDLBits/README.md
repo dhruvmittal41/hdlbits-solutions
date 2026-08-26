@@ -1,16 +1,10 @@
 <!-- HDLBITS_SYNC_START -->
-<div align="center">
-  
 # HDLBits Solutions
-  
-</div>
 
-> [!TIP]
-> **Solved Problems:** `32`
-> 
-> **Last Updated:** `2026-08-26`
+Solved Problems: 33
 
-<br>
+Last Updated:
+2026-08-26
 
 | Problem | Category | Language | Code |
 | :--- | :--- | :--- | :--- |
@@ -33,6 +27,7 @@
 | [module_pos](./Modules/module_pos.md) | Modules | Verilog | [module_pos.v](./Modules/module_pos.v) |
 | [module_shift](./Modules/module_shift.md) | Modules | Verilog | [module_shift.v](./Modules/module_shift.v) |
 | [module_shift8](./Modules/module_shift8.md) | Modules | Verilog | [module_shift8.v](./Modules/module_shift8.v) |
+| [always_case](./Procedures/always_case.md) | Procedures | Verilog | [always_case.v](./Procedures/always_case.v) |
 | [always_if](./Procedures/always_if.md) | Procedures | Verilog | [always_if.v](./Procedures/always_if.v) |
 | [always_if2](./Procedures/always_if2.md) | Procedures | Verilog | [always_if2.v](./Procedures/always_if2.v) |
 | [alwaysblock1](./Procedures/alwaysblock1.md) | Procedures | Verilog | [alwaysblock1.v](./Procedures/alwaysblock1.v) |
@@ -46,4 +41,5 @@
 | [vector5](./Vectors/vector5.md) | Vectors | Verilog | [vector5.v](./Vectors/vector5.v) |
 | [vectorgates](./Vectors/vectorgates.md) | Vectors | Verilog | [vectorgates.v](./Vectors/vectorgates.v) |
 | [vectorr](./Vectors/vectorr.md) | Vectors | Verilog | [vectorr.v](./Vectors/vectorr.v) |
+
 <!-- HDLBITS_SYNC_END -->
