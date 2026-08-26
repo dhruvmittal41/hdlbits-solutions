@@ -1,7 +1,7 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 34
+Solved Problems: 35
 
 Last Updated:
 2026-08-26
@@ -29,6 +29,7 @@ Last Updated:
 | [module_shift8](./Modules/module_shift8.md) | Modules | Verilog | [module_shift8.v](./Modules/module_shift8.v) |
 | [always_case](./Procedures/always_case.md) | Procedures | Verilog | [always_case.v](./Procedures/always_case.v) |
 | [always_case2](./Procedures/always_case2.md) | Procedures | Verilog | [always_case2.v](./Procedures/always_case2.v) |
+| [always_casez](./Procedures/always_casez.md) | Procedures | Verilog | [always_casez.v](./Procedures/always_casez.v) |
 | [always_if](./Procedures/always_if.md) | Procedures | Verilog | [always_if.v](./Procedures/always_if.v) |
 | [always_if2](./Procedures/always_if2.md) | Procedures | Verilog | [always_if2.v](./Procedures/always_if2.v) |
 | [alwaysblock1](./Procedures/alwaysblock1.md) | Procedures | Verilog | [alwaysblock1.v](./Procedures/alwaysblock1.v) |
