@@ -1,10 +1,16 @@
 <!-- HDLBITS_SYNC_START -->
+<div align="center">
+  
 # HDLBits Solutions
+  
+</div>
 
-Solved Problems: 32
+> [!TIP]
+> **Solved Problems:** `32`
+> 
+> **Last Updated:** `2026-08-26`
 
-Last Updated:
-2026-08-26
+<br>
 
 | Problem | Category | Language | Code |
 | :--- | :--- | :--- | :--- |
@@ -40,5 +46,4 @@ Last Updated:
 | [vector5](./Vectors/vector5.md) | Vectors | Verilog | [vector5.v](./Vectors/vector5.v) |
 | [vectorgates](./Vectors/vectorgates.md) | Vectors | Verilog | [vectorgates.v](./Vectors/vectorgates.v) |
 | [vectorr](./Vectors/vectorr.md) | Vectors | Verilog | [vectorr.v](./Vectors/vectorr.v) |
-
 <!-- HDLBITS_SYNC_END -->
