@@ -1,7 +1,7 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 35
+Solved Problems: 36
 
 Last Updated:
 2026-08-26
@@ -32,6 +32,7 @@ Last Updated:
 | [always_casez](./Procedures/always_casez.md) | Procedures | Verilog | [always_casez.v](./Procedures/always_casez.v) |
 | [always_if](./Procedures/always_if.md) | Procedures | Verilog | [always_if.v](./Procedures/always_if.v) |
 | [always_if2](./Procedures/always_if2.md) | Procedures | Verilog | [always_if2.v](./Procedures/always_if2.v) |
+| [always_nolatches](./Procedures/always_nolatches.md) | Procedures | Verilog | [always_nolatches.v](./Procedures/always_nolatches.v) |
 | [alwaysblock1](./Procedures/alwaysblock1.md) | Procedures | Verilog | [alwaysblock1.v](./Procedures/alwaysblock1.v) |
 | [alwaysblock2](./Procedures/alwaysblock2.md) | Procedures | Verilog | [alwaysblock2.v](./Procedures/alwaysblock2.v) |
 | [gates4](./Vectors/gates4.md) | Vectors | Verilog | [gates4.v](./Vectors/gates4.v) |
