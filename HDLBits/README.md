@@ -1,7 +1,7 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 45
+Solved Problems: 46
 
 Last Updated:
 2026-08-28
@@ -17,6 +17,7 @@ Last Updated:
 | [exams_m2014_q4h](./Basics/exams_m2014_q4h.md) | Basics | Verilog | [exams_m2014_q4h.v](./Basics/exams_m2014_q4h.v) |
 | [exams_m2014_q4i](./Basics/exams_m2014_q4i.md) | Basics | Verilog | [exams_m2014_q4i.v](./Basics/exams_m2014_q4i.v) |
 | [mt2015_eq2](./Basics/mt2015_eq2.md) | Basics | Verilog | [mt2015_eq2.v](./Basics/mt2015_eq2.v) |
+| [mt2015_q4a](./Basics/mt2015_q4a.md) | Basics | Verilog | [mt2015_q4a.v](./Basics/mt2015_q4a.v) |
 | [norgate](./Basics/norgate.md) | Basics | Verilog | [norgate.v](./Basics/norgate.v) |
 | [notgate](./Basics/notgate.md) | Basics | Verilog | [notgate.v](./Basics/notgate.v) |
 | [step_one](./Basics/step_one.md) | Basics | Verilog | [step_one.v](./Basics/step_one.v) |
