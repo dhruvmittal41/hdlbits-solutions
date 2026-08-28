@@ -1,7 +1,7 @@
 <!-- HDLBITS_SYNC_START -->
 # HDLBits Solutions
 
-Solved Problems: 43
+Solved Problems: 44
 
 Last Updated:
 2026-08-28
@@ -19,6 +19,7 @@ Last Updated:
 | [norgate](./Basics/norgate.md) | Basics | Verilog | [norgate.v](./Basics/norgate.v) |
 | [notgate](./Basics/notgate.md) | Basics | Verilog | [notgate.v](./Basics/notgate.v) |
 | [step_one](./Basics/step_one.md) | Basics | Verilog | [step_one.v](./Basics/step_one.v) |
+| [truthtable1](./Basics/truthtable1.md) | Basics | Verilog | [truthtable1.v](./Basics/truthtable1.v) |
 | [wire](./Basics/wire.md) | Basics | Verilog | [wire.v](./Basics/wire.v) |
 | [wire_decl](./Basics/wire_decl.md) | Basics | Verilog | [wire_decl.v](./Basics/wire_decl.v) |
 | [wire4](./Basics/wire4.md) | Basics | Verilog | [wire4.v](./Basics/wire4.v) |
